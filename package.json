@@ -1,0 +1,23 @@
+{
+  "name": "demo_express",
+  "version": "1.0.0",
+  "description": "demo_express 13-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cuadri84/demo_express.git"
+  },
+  "author": "cuadri84",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cuadri84/demo_express/issues"
+  },
+  "homepage": "https://github.com/Cuadri84/demo_express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
